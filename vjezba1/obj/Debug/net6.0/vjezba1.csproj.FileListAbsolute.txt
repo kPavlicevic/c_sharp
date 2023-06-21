@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\vjezba1\bin\Debug\net6.0\vjezba1.exe
+C:\Users\Toshiba\Desktop\c#\vjezba1\bin\Debug\net6.0\vjezba1.deps.json
+C:\Users\Toshiba\Desktop\c#\vjezba1\bin\Debug\net6.0\vjezba1.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\vjezba1\bin\Debug\net6.0\vjezba1.dll
+C:\Users\Toshiba\Desktop\c#\vjezba1\bin\Debug\net6.0\vjezba1.pdb
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.dll
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\refint\vjezba1.dll
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.pdb
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\vjezba1.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\vjezba1\obj\Debug\net6.0\ref\vjezba1.dll
