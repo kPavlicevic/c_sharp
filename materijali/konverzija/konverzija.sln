@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konverzija", "konverzija.csproj", "{936762B9-D30A-4794-A053-6FB7FDA9DBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936762B9-D30A-4794-A053-6FB7FDA9DBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936762B9-D30A-4794-A053-6FB7FDA9DBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936762B9-D30A-4794-A053-6FB7FDA9DBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936762B9-D30A-4794-A053-6FB7FDA9DBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F52D58B-89E4-4477-AD57-0E35CF3AC94C}
+	EndGlobalSection
+EndGlobal

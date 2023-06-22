@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\bin\Debug\net6.0\operatori.exe
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\bin\Debug\net6.0\operatori.deps.json
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\bin\Debug\net6.0\operatori.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\bin\Debug\net6.0\operatori.dll
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\bin\Debug\net6.0\operatori.pdb
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.dll
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\refint\operatori.dll
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.pdb
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\operatori.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\materijali\operatori\obj\Debug\net6.0\ref\operatori.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Toshiba\\Desktop\\c#\\vjezba\\operatori\\operatori.csproj",
-      "projectName": "operatori",
-      "projectPath": "C:\\Users\\Toshiba\\Desktop\\c#\\vjezba\\operatori\\operatori.csproj",
+      "projectUniqueName": "C:\\Users\\Toshiba\\Desktop\\c#\\vjezba1\\vjezba1.csproj",
+      "projectName": "vjezba1",
+      "projectPath": "C:\\Users\\Toshiba\\Desktop\\c#\\vjezba1\\vjezba1.csproj",
       "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Toshiba\\Desktop\\c#\\vjezba\\operatori\\obj\\",
+      "outputPath": "C:\\Users\\Toshiba\\Desktop\\c#\\vjezba1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
