@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\bin\Debug\net6.0\ulazIzlaz.exe
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\bin\Debug\net6.0\ulazIzlaz.deps.json
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\bin\Debug\net6.0\ulazIzlaz.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\bin\Debug\net6.0\ulazIzlaz.dll
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\bin\Debug\net6.0\ulazIzlaz.pdb
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.dll
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\refint\ulazIzlaz.dll
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.pdb
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ulazIzlaz.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\dz\ulazIzlaz\obj\Debug\net6.0\ref\ulazIzlaz.dll
