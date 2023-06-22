@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\dz\varijable\bin\Debug\net6.0\varijable.exe
+C:\Users\Toshiba\Desktop\c#\dz\varijable\bin\Debug\net6.0\varijable.deps.json
+C:\Users\Toshiba\Desktop\c#\dz\varijable\bin\Debug\net6.0\varijable.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\dz\varijable\bin\Debug\net6.0\varijable.dll
+C:\Users\Toshiba\Desktop\c#\dz\varijable\bin\Debug\net6.0\varijable.pdb
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.dll
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\refint\varijable.dll
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.pdb
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\varijable.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\dz\varijable\obj\Debug\net6.0\ref\varijable.dll
