@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\bin\Debug\net6.0\tab_mnozenja.exe
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\bin\Debug\net6.0\tab_mnozenja.deps.json
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\bin\Debug\net6.0\tab_mnozenja.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\bin\Debug\net6.0\tab_mnozenja.dll
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\bin\Debug\net6.0\tab_mnozenja.pdb
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.dll
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\refint\tab_mnozenja.dll
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.pdb
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\tab_mnozenja.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\dz\tab_mnozenja\obj\Debug\net6.0\ref\tab_mnozenja.dll
