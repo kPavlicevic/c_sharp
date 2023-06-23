@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\bin\Debug\net6.0\uvjetnoGrananjeIF.exe
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\bin\Debug\net6.0\uvjetnoGrananjeIF.deps.json
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\bin\Debug\net6.0\uvjetnoGrananjeIF.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\bin\Debug\net6.0\uvjetnoGrananjeIF.dll
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\bin\Debug\net6.0\uvjetnoGrananjeIF.pdb
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.dll
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\refint\uvjetnoGrananjeIF.dll
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.pdb
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\uvjetnoGrananjeIF.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\materijali\uvjetnoGrananjeIF\obj\Debug\net6.0\ref\uvjetnoGrananjeIF.dll
