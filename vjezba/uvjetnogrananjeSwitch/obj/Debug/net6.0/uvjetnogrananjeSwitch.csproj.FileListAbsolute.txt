@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\bin\Debug\net6.0\uvjetnogrananjeSwitch.exe
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\bin\Debug\net6.0\uvjetnogrananjeSwitch.deps.json
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\bin\Debug\net6.0\uvjetnogrananjeSwitch.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\bin\Debug\net6.0\uvjetnogrananjeSwitch.dll
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\bin\Debug\net6.0\uvjetnogrananjeSwitch.pdb
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.dll
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\refint\uvjetnogrananjeSwitch.dll
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.pdb
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\uvjetnogrananjeSwitch.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\vjezba\uvjetnogrananjeSwitch\obj\Debug\net6.0\ref\uvjetnogrananjeSwitch.dll
