@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// DZ
+﻿// DZ
 //		Kreiraj program koji će koristeći for petlje
 //		automatizirati ispis tablice množenja u ovom obliku:
 //		-------------------------------
@@ -29,54 +28,48 @@ string zaglavlje = ": : :  TABLICA  MNOZENJA  : : :";
 string razmak = "  ";
 string umnozak;
 
-//Zaglavlje
-//zelimo ga samo jednom zato ide prije petlji
+
 Console.WriteLine(razdvojnik);
 Console.WriteLine(zaglavlje);
 Console.WriteLine(razdvojnik);
 
 
-//Tablica
+
 for (int i = 0; i < 10; i++) {
-    //samo umjesto 0 zelimo ispisati *
+    
     if (i == 0)
     {
         Console.Write("* |  ");
     }
-    //u suprotnom zelimo ispisati umnozenika, odnosno i, odnosno ovime popunjavamo vrijednsoti prvog stupca
     else {
         Console.Write(i);
         Console.Write(" |");
     }
     for (int j = 1; j < 10; j++) {
-        //Ako smo u prvom retku onda zelimo ispisati umnozitelja odnosno j
         if (i == 0)
         {
             Console.Write(j);
             Console.Write(razmak[^2..]);
         }
-        //u svako drugom slucaju zelimo ispisati umnozak, odnosno vrijednosti tablice mnozenja
         else {
             umnozak = "   " + i * j;
             Console.Write(umnozak[^3..]);
         }
     }
-    //Kada samo zavrsili sa retkom, odnosno izvrsavanjem j petelj, zelimo preci u novi redak,
-    //prije nego inkrementiramo i
+
     Console.WriteLine();
-    //Ako se radi o prvom izvrsavanju j petelje, samo tada zelimo radjelnik odnosno "------------"
+ 
     if (i == 0) {
         Console.WriteLine(razdvojnik);
     }
 }
 
 
-//podnozje
-//zelimo ga na samo kraju i zato ide izvan ugnježđenih petlji
+
 Console.WriteLine(razdvojnik);
 Console.Write(raz_dvotocka[^18..]);
 Console.WriteLine(" :by Katarina");
 Console.WriteLine(razdvojnik);
 
-//prozor ostaje otvoren dok se ne unese enter
+
 while (Console.ReadLine() == "/n") ;
