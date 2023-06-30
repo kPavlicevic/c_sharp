@@ -22,7 +22,32 @@ Console.WriteLine("*********");
 
 int b = 1;
 
-for ( int i =0; i<=stupaca; i++) 
+for ( int i = 1; i <= stupaca; i++) 
 {
     matrica[redaka - 1, stupaca - i] = b++;
 }
+
+for ( int i = 0; i < redaka; i++) 
+{
+    for ( int j = 0; j < stupaca; j++) 
+    {
+        Console.Write(matrica[i,j] + " ");
+    }
+    Console.WriteLine();
+}
+Console.WriteLine("*********");
+
+for ( int i = redaka - 2; i >= 0; i--) 
+{
+    matrica[i, 0] = b++;
+}
+
+for ( int i = 0; i < redaka; i++) 
+{
+    for ( int j = 0; j < stupaca; j++) 
+    {
+        Console.Write(matrica[i,j] + " ");
+    }
+    Console.WriteLine();
+}
+
