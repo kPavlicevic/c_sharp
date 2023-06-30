@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\bin\Debug\net6.0\ciklicnaMatrica.exe
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\bin\Debug\net6.0\ciklicnaMatrica.deps.json
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\bin\Debug\net6.0\ciklicnaMatrica.runtimeconfig.json
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\bin\Debug\net6.0\ciklicnaMatrica.dll
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\bin\Debug\net6.0\ciklicnaMatrica.pdb
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.dll
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\refint\ciklicnaMatrica.dll
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.pdb
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ciklicnaMatrica.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\c#\dz\ciklicnaMatrica\obj\Debug\net6.0\ref\ciklicnaMatrica.dll
